@@ -1,0 +1,15 @@
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/bin/Debug/net6.0/021-simulas-test
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/bin/Debug/net6.0/021-simulas-test.deps.json
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/bin/Debug/net6.0/021-simulas-test.runtimeconfig.json
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/bin/Debug/net6.0/021-simulas-test.dll
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/bin/Debug/net6.0/021-simulas-test.pdb
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/obj/Debug/net6.0/021-simulas-test.csproj.AssemblyReference.cache
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/obj/Debug/net6.0/021-simulas-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/obj/Debug/net6.0/021-simulas-test.AssemblyInfoInputs.cache
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/obj/Debug/net6.0/021-simulas-test.AssemblyInfo.cs
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/obj/Debug/net6.0/021-simulas-test.csproj.CoreCompileInputs.cache
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/obj/Debug/net6.0/021-simulas-test.dll
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/obj/Debug/net6.0/refint/021-simulas-test.dll
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/obj/Debug/net6.0/021-simulas-test.pdb
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/obj/Debug/net6.0/021-simulas-test.genruntimeconfig.cache
+/Users/aaronwiesinger/Repos/Personal/cs_players_guide/021-simulas-test/obj/Debug/net6.0/ref/021-simulas-test.dll
