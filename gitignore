@@ -1,4 +1,2 @@
-# Don't want to publish the vscode settings
-.vscode/
-
-bin/Debug/net6.0/
+.vscode/*
+bin/*
